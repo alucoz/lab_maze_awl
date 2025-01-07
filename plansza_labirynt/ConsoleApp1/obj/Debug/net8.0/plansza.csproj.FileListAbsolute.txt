@@ -1,0 +1,4 @@
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.AssemblyInfoInputs.cache
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.AssemblyInfo.cs
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.csproj.CoreCompileInputs.cache
