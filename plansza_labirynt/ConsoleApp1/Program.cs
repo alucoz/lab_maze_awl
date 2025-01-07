@@ -1,1 +1,1 @@
-﻿//123 bungie
+﻿//123 bungie to działa?
