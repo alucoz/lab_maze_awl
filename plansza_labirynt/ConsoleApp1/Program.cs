@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) //wywołanie wszystkiego
     {
         Maze maze = new Maze();
         Console.WriteLine("Generated Maze:");
