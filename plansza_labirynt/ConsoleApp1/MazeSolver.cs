@@ -48,11 +48,4 @@ public class MazeSolver
         return false;
     }
 
-    public void PrintPath()
-    {
-        foreach (var step in path)
-        {
-            Console.WriteLine($"({step.Item1}, {step.Item2})");
-        }
-    }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plansza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815cabf6c0199e45dcc2b1b2d89d8bfe4b56594f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a9ef199d6169195f83fbda665f4b9f8b12feed")]
 [assembly: System.Reflection.AssemblyProductAttribute("plansza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plansza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
