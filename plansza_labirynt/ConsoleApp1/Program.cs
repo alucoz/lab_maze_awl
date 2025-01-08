@@ -10,28 +10,13 @@ class Program
         Console.Write("Enter number of columns: ");
         int cols = int.Parse(Console.ReadLine());
 
-        Console.Write("Enter number of pools: ");
-        int pools = int.Parse(Console.ReadLine());
-
-        Maze maze = new Maze(rows, cols, pools);
+        Maze maze = new Maze(rows, cols);
         Console.WriteLine("Generated Maze:");
         maze.PrintMaze();
 
         MazeSolver solver = new MazeSolver(maze.GetMaze());
 
-        Console.WriteLine("Enter start coordinates:");
-        Console.Write("Start X: ");
-        int startX = int.Parse(Console.ReadLine());
-        Console.Write("Start Y: ");
-        int startY = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Enter end coordinates:");
-        Console.Write("End X: ");
-        int endX = int.Parse(Console.ReadLine());
-        Console.Write("End Y: ");
-        int endY = int.Parse(Console.ReadLine());
-
-        if (solver.Solve(startX, startY, endX, endY))
+        if (solver.Solve(0, 0, rows - 1, cols - 1))
         {
             Console.WriteLine("Path found:");
             solver.PrintPath();
