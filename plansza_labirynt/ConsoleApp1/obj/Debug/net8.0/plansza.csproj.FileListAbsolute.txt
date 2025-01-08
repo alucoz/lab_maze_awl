@@ -2,3 +2,14 @@ C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\De
 C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.AssemblyInfoInputs.cache
 C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.AssemblyInfo.cs
 C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.csproj.CoreCompileInputs.cache
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\bin\Debug\net8.0\plansza.exe
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\bin\Debug\net8.0\plansza.deps.json
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\bin\Debug\net8.0\plansza.runtimeconfig.json
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\bin\Debug\net8.0\plansza.dll
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\bin\Debug\net8.0\plansza.pdb
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.sourcelink.json
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.dll
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\refint\plansza.dll
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.pdb
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\plansza.genruntimeconfig.cache
+C:\Users\saber\Documents\GitHub\lab_maze_awl\plansza_labirynt\ConsoleApp1\obj\Debug\net8.0\ref\plansza.dll
